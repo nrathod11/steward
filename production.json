@@ -1,0 +1,13 @@
+{
+    "name":"Steward - live",
+    "mail":{
+        "host":"live-mail-server"
+    },
+    "default_responses":{
+        "recordNotFound": "No matching record found",
+        "unexpectedError" : "An unexpected error occured",
+        "recordExist" : "A matching record already exists with our system",
+        "recordUpdated" : "A record updated Successfuly",
+        "recordDeleted" : "A record has been deleted successfuly"
+    }
+}
